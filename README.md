@@ -26,8 +26,7 @@
 - 🔭 focused on **web development &amp; cybersecurity**
 - 🛡️ deep-diving into **ethical hacking, CTFs &amp; vulnerability research**
 - 🌱 building **secure, scalable web applications**
-- 🌀 mainlining **[OdysseySearch](https://github.com/NikolisSec/OdysseySearch)** — a terminal torrent searcher that pipes everything through Real-Debrid
-- 💬 ask me about **Python, Flask, and information security**
+- 🌀 mainlining **[OdysseySearch](https://github.com/NikolisSec/OdysseySearch)** - a terminal torrent searcher that pipes everything through Real-Debrid
 
 ### ⚙️ Technologies &amp; Tools
 

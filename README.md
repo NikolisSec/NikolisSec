@@ -27,15 +27,16 @@
 - 🛡️ deep-diving into **ethical hacking, CTFs &amp; vulnerability research**
 - 🌱 building **secure, scalable web applications**
 - 🌀 mainlining **[OdysseySearch](https://github.com/NikolisSec/OdysseySearch)** - a terminal torrent searcher that pipes everything through Real-Debrid
+- 🧰 running a **homelab** with self-hosted services and containers
 
 ### ⚙️ Technologies &amp; Tools
 
 | Languages | Scripting &amp; Ops | Databases | Security |
 |---|---|---|---|
 | <img src="https://skillicons.dev/icons?i=py" alt="Python" height="45"/> | <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"/> | <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" height="45"/> |
-| <img src="https://skillicons.dev/icons?i=c" alt="C" height="45"/> | <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="45"/> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/> | **Ethical Hacking** |
-| <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="45"/> | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"/> | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="45"/> | **CTF Challenges** |
-| **Assembly** | <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"/> | | **Vulnerability Scanning** |
+| <img src="https://skillicons.dev/icons?i=c" alt="C" height="45"/> | <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="45"/> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=hackthebox" alt="Ethical Hacking" height="45"/> |
+| <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="45"/> | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"/> | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="45"/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=tryhackme" alt="CTF Challenges" height="45"/> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" alt="GNU Assembly" height="45"/> | <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"/> | | <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite" alt="Vulnerability Scanning" height="45"/> |
 
 ### 📊 GitHub Analytics
 

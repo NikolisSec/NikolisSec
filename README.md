@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Nikolis 👋</h1>
 <p align="center">
-  <b>Cybersecurity Enthusiast &amp; Web Developer</b> &bull; Athens, Greece 🇬🇷<br/>
+  <b>Cybersecurity Enthusiast &amp; Web Security Engineer</b> &bull; Athens, Greece 🇬🇷<br/>
   <i>I break things to understand them (on purpose), then build things that hold up.</i>
 </p>
 

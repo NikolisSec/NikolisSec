@@ -35,7 +35,7 @@
 | <img src="https://skillicons.dev/icons?i=py" alt="Python" height="45"/> | <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"/> | <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" height="45"/> |
 | <img src="https://skillicons.dev/icons?i=c" alt="C" height="45"/> | <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="45"/> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/> | **Ethical Hacking** |
 | <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="45"/> | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"/> | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="45"/> | **CTF Challenges** |
-| **Assembly** | <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"/> · **WSL** · **XAMPP** | | **Vulnerability Scanning** |
+| **Assembly** | <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"/> | | **Vulnerability Scanning** |
 
 ### 📊 GitHub Analytics
 

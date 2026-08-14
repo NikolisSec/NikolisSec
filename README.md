@@ -31,13 +31,41 @@
 
 ### ⚙️ Technologies &amp; Tools
 
-| Languages | Scripting &amp; Ops | Databases | Security |
-|---|---|---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-7f00ff?style=flat-square) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![CTFs](https://img.shields.io/badge/CTF%20Challenges-00adb5?style=flat-square) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Vuln. Scanning](https://img.shields.io/badge/Vulnerability%20Scanning-191970?style=flat-square) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=flat-square) | | ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | | | |
+#### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  &nbsp;<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  &nbsp;<img src="https://img.shields.io/badge/Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Assembly"/>
+</p>
+
+#### Scripting &amp; Ops
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  &nbsp;<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  &nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  &nbsp;<img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=windows&logoColor=white" alt="WSL"/>
+  &nbsp;<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+</p>
+
+#### Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  &nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+#### Security
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-7f00ff?style=for-the-badge&logo=shield&logoColor=white" alt="Ethical Hacking"/>
+  &nbsp;<img src="https://img.shields.io/badge/CTF%20Challenges-00adb5?style=for-the-badge&logo=flag&logoColor=white" alt="CTF Challenges"/>
+  &nbsp;<img src="https://img.shields.io/badge/Vulnerability%20Scanning-191970?style=for-the-badge&logo=gitbook&logoColor=white" alt="Vulnerability Scanning"/>
+</p>
 
 ### 📊 GitHub Analytics
 
@@ -47,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolisSec&layout=donut&theme=github-dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolisSec&layout=donut&hide=html,css,javascript&theme=github-dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ### 🏆 GitHub Trophies

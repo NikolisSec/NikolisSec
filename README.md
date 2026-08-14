@@ -60,5 +60,5 @@
 
 <p align="center">
   <b>Let's connect / collaborate</b> · <a href="https://github.com/NikolisSec">@NikolisSec</a><br/>
-  <sub>Made with ❤️ in Athens, Greece 🇬🇷 — sane questions and collabs welcome, sketchy ones aren't.</sub>
+  <sub>Made with ❤️ in Athens, Greece 🇬🇷</sub>
 </p>

@@ -32,10 +32,10 @@
 
 | Languages | Scripting &amp; Ops | Databases | Security |
 |---|---|---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-7f00ff?style=for-the-badge&logo=shield&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![CTF Challenges](https://img.shields.io/badge/CTF%20Challenges-00adb5?style=for-the-badge&logo=flag&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Vuln. Scanning](https://img.shields.io/badge/Vulnerability%20Scanning-191970?style=for-the-badge&logo=gitbook&logoColor=white) |
-| ![Assembly](https://img.shields.io/badge/Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) · ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=windows&logoColor=white) | | ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) |
+| <img src="https://skillicons.dev/icons?i=py" alt="Python" height="45"/> | <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"/> | <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" height="45"/> |
+| <img src="https://skillicons.dev/icons?i=c" alt="C" height="45"/> | <img src="https://skillicons.dev/icons?i=ps" alt="PowerShell" height="45"/> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/> | **Ethical Hacking** |
+| <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="45"/> | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"/> | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="45"/> | **CTF Challenges** |
+| **Assembly** | <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"/> · **WSL** · **XAMPP** | | **Vulnerability Scanning** |
 
 ### 📊 GitHub Analytics
 

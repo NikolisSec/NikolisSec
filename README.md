@@ -31,12 +31,38 @@
 
 ### ⚙️ Technologies &amp; Tools
 
-| Languages | Scripting &amp; Ops | Databases | Security |
-|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=py" alt="Python" height="45"/> | <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="45"/> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"/> | <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" height="45"/> |
-| <img src="https://skillicons.dev/icons?i=c" alt="C" height="45"/> | <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="45"/> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=hackthebox" alt="Ethical Hacking" height="45"/> |
-| <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="45"/> | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"/> | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="45"/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=tryhackme" alt="CTF Challenges" height="45"/> |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" alt="GNU Assembly" height="45"/> | <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"/> | | <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite" alt="Vulnerability Scanning" height="45"/> |
+<table align="center">
+<tr>
+  <th align="center">Languages</th>
+  <th align="center">Scripting &amp; Ops</th>
+  <th align="center">Databases</th>
+  <th align="center">Security</th>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="45"/></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="45"/></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45"/></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" height="45"/></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" height="45"/></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="45"/></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/></td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=hackthebox" alt="Ethical Hacking" height="45"/></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cs" alt="C#" height="45"/></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45"/></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="45"/></td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tryhackme" alt="CTF Challenges" height="45"/></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" alt="GNU Assembly" height="45"/></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="45"/></td>
+  <td align="center"></td>
+  <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite" alt="Vulnerability Scanning" height="45"/></td>
+</tr>
+</table>
 
 ### 📊 GitHub Analytics
 
